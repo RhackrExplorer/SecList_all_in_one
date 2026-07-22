@@ -14,6 +14,8 @@ add-block-description.md
 bright-drinks-end.md
 .changeset/monorepo-easier.md
 monorepo-easier.md
+.changeset/slow-points-listen.md
+slow-points-listen.md
 .changeset/remove-end-session.md
 remove-end-session.md
 .changeset/nervous-flies-press.md
@@ -38,6 +40,8 @@ green-lizards-yawn.md
 filter-errors.md
 .changeset/afraid-beds-read.md
 afraid-beds-read.md
+.changeset/hungry-colts-sort.md
+hungry-colts-sort.md
 .changeset/drop-field-path.md
 drop-field-path.md
 .changeset/break-sudo-schema.md
@@ -46,8 +50,6 @@ break-sudo-schema.md
 free-papers-show.md
 .changeset/add-end-session.md
 add-end-session.md
-.changeset/bump-react.md
-bump-react.md
 .changeset/tired-tires-look.md
 tired-tires-look.md
 .changeset/remove-meta-fields.md
@@ -102,8 +104,6 @@ silent-lists-filter.md
 maybe-item.md
 .changeset/contributors.json
 contributors.json
-.changeset/and-or-not-conditional-filters.md
-and-or-not-conditional-filters.md
 .changeset/rotten-vans-vanish.md
 rotten-vans-vanish.md
 .changeset/field-mode-defaults.md
@@ -166,6 +166,8 @@ blue-balloons-turn.md
 config.json
 .changeset/less-lonely-authors.md
 less-lonely-authors.md
+.changeset/react-peer-deps.md
+react-peer-deps.md
 .changeset/less-high-description.md
 less-high-description.md
 .changeset/add-graphql-singular.md
@@ -188,6 +190,8 @@ ready-laws-refuse.md
 early-shirts-win.md
 .changeset/poor-months-wear.md
 poor-months-wear.md
+.changeset/ready-crews-unite.md
+ready-crews-unite.md
 .changeset/fix-enum-names.md
 fix-enum-names.md
 .prettierignore
